@@ -84,40 +84,17 @@
 		text-align: left;
 	}
 	
-	#leftside {
-		float: left;
-		margin: 0 auto;
-		border: 0px;
-		padding: 0;
-		width: 460px;
-		font-size: 15px;
-		font-family: helvetica;
-		color: #443266;
-
-	}
-	
 	#post {
 		margin: 20px 0;
 		padding: 0px 20px 5px 20px;
 		border-width: 1px;
 		border-style: solid;
 		border-color: #866BB3;
-		width: 420px;
+		width: 640px;
 		background-color:  white;	
 		font-size: 15px;
 		font-family: helvetica;
 		color: #443266;
-	}
-	
-	#rightside {
-		float: right;
-		margin: 0;
-		border: 0;
-		padding: 0px 20px;	
-		width: 180px;
-		font-size: 15px;
-		font-family: helvetica;
-		color: #866BB3;
 	}
 	
 	#profilepic {
