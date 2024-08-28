@@ -1,0 +1,141 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+@font-face {
+  font-family: likeBoobies;
+  src: url("/fonts/Armavir03.ttf");
+}
+
+body {
+  background-color: white;
+}
+
+.links {
+  margin: 0 auto;
+  padding: 20px 0px 20px;
+  width: 100%;
+  overflow: hidden;
+  background-color: white;
+  text-align: center;
+}
+
+#logo {
+  margin: 0 auto;
+  width: 50%;
+  overflow: hidden;
+  background-color: white;
+  text-align: center;
+}
+
+#text {
+  margin: 0 auto;
+  padding: 50px 0px 50px;
+  width: 100%;
+  overflow: hidden;
+  background-color: white;
+  font-size: 1em;
+  /* font-size: 25px; */
+  /* font-family: helvetica; */
+  font-family: likeBoobies;
+  text-align: center;
+  color: black;
+}
+
+#date-text {
+  /* margin: 0 auto; */
+  /* padding: 50px 0px 50px; */
+  width: 100%;
+  overflow: hidden;
+  background-color: white;
+  font-size: 0.8em;
+  /* font-size: 25px; */
+  /* font-family: helvetica; */
+  font-family: likeBoobies;
+  text-align: center;
+  color: black;
+}
+
+#dates {
+  padding: 50px 0;
+}
+
+#photo {
+  margin: 0 auto;
+  width: 100%;
+  overflow: hidden;
+  background-color: white;
+}
+
+h1 {
+  margin: 0 auto;
+  padding: 50px 0px 50px;
+  font-size: 1.5em;
+  /* font-size: 30px; */
+  /* font-family: helvetica; */
+  font-family: likeBoobies;
+  text-align: center;
+  color: black;
+}
+
+.make_flex_space_even {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+.max-width-size {
+  max-width: 1980px;
+  margin: auto;
+}
+
+header {
+  /* margin: 0 auto;
+  text-align: center;
+  width: 100%; */
+  margin-top: 1%;
+  margin-bottom: 30px;
+}
+
+footer {
+  margin-bottom: 1%;
+}
+
+#video {
+  position: relative;
+  overflow: hidden;
+  border-radius: 20px;
+  width: 100%;
+  /* max-height: 100%; */
+  padding-top: 56.25%;
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+img {
+  border-radius: 20px;
+}
+
+.max-text-length {
+  max-width: 70ch;
+}
+
+p {
+  margin-bottom: 0.8em;
+}
