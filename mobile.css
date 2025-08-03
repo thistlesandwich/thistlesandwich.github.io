@@ -1,0 +1,41 @@
+/* Mobile First */
+
+@media (min-width: 475px) {
+  body {
+    /* background-color: blueviolet; */
+    header {
+      margin-bottom: 20px;
+    }
+  }
+}
+
+@media (min-width: 640px) {
+  body {
+    /* background-color: red; */
+  }
+  h1 {
+    font-size: 1.8em;
+  }
+
+  #text {
+    font-size: 1.6em;
+  }
+  #date-text {
+    font-size: 1.8em;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    /* background-color: orange; */
+  }
+}
+
+@media (min-width: 1024px) {
+}
+
+@media (min-width: 1280px) {
+}
+
+@media (min-width: 1536px) {
+}
