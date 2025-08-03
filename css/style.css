@@ -41,9 +41,8 @@ body {
   overflow: hidden;
   background-color: white;
   font-size: 1em;
-  /* font-size: 25px; */
-  /* font-family: helvetica; */
-  font-family: likeBoobies;
+  font-family: helvetica;
+  /*font-family: likeBoobies;*/
   text-align: center;
   color: black;
 }
@@ -76,8 +75,7 @@ h1 {
   padding: 0px 0px 25px 0;
   font-size: 1.5em;
   font-family: helvetica;
-  /*font-family: likeBoobies;
-  text-align: center;*/
+  /*font-family: likeBoobies;*/
   color: black;
 }
 
