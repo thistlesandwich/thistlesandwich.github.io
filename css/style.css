@@ -9,7 +9,7 @@
 }
 
 @font-face {
-  font-family: likeBoobies;
+  font-family: armavir;
   src: url("fonts/armavir.ttf") format("truetype");
 }
 
@@ -41,8 +41,7 @@ body {
   overflow: hidden;
   background-color: white;
   font-size: 1em;
-  font-family: helvetica;
-  /*font-family: likeBoobies;*/
+  font-family: armavir;
   text-align: center;
   color: black;
 }
@@ -56,8 +55,7 @@ body {
   overflow: hidden;
   background-color: white;
   font-size: 0.8em;
-  font-family: helvetica;
-  /*font-family: likeBoobies;*/
+  font-family: armavir;
   text-align: center;
   color: black;
 }
@@ -73,8 +71,7 @@ h1 {
   margin: 0 auto;
   padding: 0px 0px 25px 0;
   font-size: 1.5em;
-  font-family: helvetica;
-  /*font-family: likeBoobies;*/
+  font-family: armavir;
   color: black;
 }
 
@@ -99,7 +96,6 @@ footer {
   margin-bottom: 1%;
 }
 
-/*
 #video {
   position: relative;
   overflow: hidden;
@@ -109,6 +105,7 @@ footer {
   padding-top: 56.25%;
 }
 
+/*
 .responsive-iframe {
   position: absolute;
   top: 0;
