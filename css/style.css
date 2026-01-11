@@ -24,14 +24,14 @@ body {
 #logo {
   margin: 0 auto;
   padding: 50px 0;
-  width: 25%;
+  width: 40%;
   overflow: hidden;
   background-color: white;
   text-align: center;
 }
 
 #text {
-  margin: 0 100px;
+  margin: 0 50px;
   padding: 50px 0 50px;
   width: 100%;
   overflow: hidden;
